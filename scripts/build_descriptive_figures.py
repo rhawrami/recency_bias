@@ -17,7 +17,7 @@ from plotly.offline.offline import get_plotlyjs
 
 
 ROOT = Path(__file__).resolve().parents[1]
-OUTPUT = ROOT / "descriptive_figures"
+OUTPUT = ROOT / "docs"
 BG = "#282A36"
 TEXT = "#F8F8F2"
 PINK = "#FFC2E2"

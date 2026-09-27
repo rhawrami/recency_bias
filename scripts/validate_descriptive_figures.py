@@ -18,6 +18,16 @@ def main():
     assert all((OUTPUT / f"f_{year}" / "index.html").exists() for year in range(2014, 2026))
     assert (OUTPUT / "index.html").exists()
     assert (OUTPUT / "assets/plotly.min.js").stat().st_size > 1_000_000
+    assert (OUTPUT / ".nojekyll").exists()
+    pages = list(OUTPUT.rglob("*.html"))
+    assert len(pages) == 734  # 720 figures, 12 year indexes, home and nominees
+    for page in pages:
+        soup = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
+        for tag, attribute in (("a", "href"), ("script", "src")):
+            for element in soup.find_all(tag):
+                target = element.get(attribute)
+                if target and not target.startswith(("http:", "https:", "#")):
+                    assert (page.parent / target).is_file(), f"Broken {attribute} in {page}: {target}"
 
     table = BeautifulSoup((OUTPUT / "nominees.html").read_text(encoding="utf-8"), "html.parser")
     records = json.loads(table.find("script", id="nominees").string)
@@ -76,7 +86,7 @@ def main():
     assert "No day-precision game releases to plot" in honorary
 
     print(f"Validated {len(months)} monthly + {len(weeks)} weekly figures, "
-          f"{len(records)} searchable rows and documented vote markers")
+          f"{len(records)} searchable rows, local links and documented vote markers")
 
 
 if __name__ == "__main__":

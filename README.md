@@ -118,16 +118,28 @@ recorded in their own rows. Unknown dates remain blank.
 
 ## Descriptive figures and table
 
-Open [`descriptive_figures/index.html`](descriptive_figures/index.html) in a
+Open [`docs/index.html`](docs/index.html) in a
 browser. Each `f_{year}/` directory has an index, a release-month and
 release-week histogram for **every category**, and a weekly histogram across
 that year's game-associated nominations. All pages use one local shared
-Plotly bundle (`descriptive_figures/assets/plotly.min.js`), so the figures
-work offline. [`descriptive_figures/nominees.html`](descriptive_figures/nominees.html)
+Plotly bundle (`docs/assets/plotly.min.js`), so the figures
+work offline. [`docs/nominees.html`](docs/nominees.html)
 is a client-side searchable, sortable table of all 1,774 nominations with
 Name, Category, Year, Released, and Won (True/False); it also includes the
 withdrawn 2025 nomination. Regenerate all figures with
 `python3 scripts/build_descriptive_figures.py` after changing the CSVs.
+
+### Publish with GitHub Pages
+
+The generated `docs/` directory is the complete static site. In the GitHub
+repository settings, open **Pages**, select **Deploy from a branch**, choose
+the default branch and **/docs** as the folder, and save. Commit and push the
+generated `docs/` files (including `assets/` and every `f_{year}/` directory).
+The site will be available at
+`https://rhawrami.github.io/recency_bias/`, with the nominee table at
+`https://rhawrami.github.io/recency_bias/nominees.html` and individual year
+indexes at `https://rhawrami.github.io/recency_bias/f_2025/` (for example).
+The `/docs` segment is a repository folder, not part of the published URL.
 
 The plots use calendar month and Monday-starting calendar week, including
 the **release year** so an older December release is not mistaken for a new
