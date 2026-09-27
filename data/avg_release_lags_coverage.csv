@@ -1,0 +1,13 @@
+year,vote_reference,vote_reference_basis,active_game_nominations,dated_game_nominations,dated_winning_nominations,omitted_missing_or_partial_release,omitted_post_ceremony_release
+2014,2014-11-20,nominee_announcement_assumption_low_confidence,75,73,15,2,0
+2015,2015-11-13,nominee_announcement_assumption_low_confidence,79,76,16,3,0
+2016,2016-11-16,nominee_announcement_assumption_low_confidence,96,90,19,6,0
+2017,2017-11-14,documented_open,131,115,23,16,0
+2018,2018-11-13,observed_open_by_proxy,116,108,22,8,0
+2019,2019-11-19,observed_open_by_proxy,127,122,24,5,0
+2020,2020-11-18,observed_open_by_proxy,129,124,25,5,0
+2021,2021-11-16,observed_open_by_proxy,127,125,25,2,0
+2022,2022-11-14,observed_open_by_proxy,127,124,25,3,0
+2023,2023-11-13,observed_open_by_proxy,129,129,25,0,0
+2024,2024-11-18,documented_open,128,127,25,1,0
+2025,2025-11-17,observed_open_by_proxy,129,124,25,5,0

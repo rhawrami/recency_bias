@@ -1,0 +1,355 @@
+award_year,category_id,category,category_type,comparison_status,winner_name,winner_release_date,other_nominees_dated,other_nominees_missing_date,winner_minus_others_days
+2014,2014-01,Game of the Year,game,included,Dragon Age: Inquisition,2014-11-18,4,0,153.0
+2014,2014-02,Developer of the Year,other,non_game_award,Nintendo,,0,4,
+2014,2014-03,Best Independent Game,game,included,Shovel Knight,2014-06-26,4,0,48.25
+2014,2014-04,Best Mobile/Handheld Game,game,included,Hearthstone,2014-03-11,4,0,-36.0
+2014,2014-05,Best Narrative,game,included,Valiant Hearts: The Great War,2014-06-25,4,0,149.0
+2014,2014-06,Best Score/Soundtrack,game,included,Destiny,2014-09-09,4,0,42.0
+2014,2014-07,Best Performance,performance,included,Trey Parker as Various Voices,2014-03-04,4,0,-58.5
+2014,2014-08,Games for Change,game,included,Valiant Hearts: The Great War,2014-06-25,4,0,-52.75
+2014,2014-09,Best Shooter,game,included,Far Cry 4,2014-11-18,4,0,129.5
+2014,2014-10,Best Action/Adventure,game,included,Middle-earth: Shadow of Mordor,2014-09-30,4,0,-16.75
+2014,2014-11,Best Role Playing Game,game,included,Dragon Age: Inquisition,2014-11-18,4,0,234.0
+2014,2014-12,Best Fighting Game,game,included,Super Smash Bros. for Wii U,2014-11-21,4,0,90.5
+2014,2014-13,Best Family Game,game,included,Mario Kart 8,2014-05-29,2,2,138.5
+2014,2014-14,Best Sports/Racing Game,game,included,Mario Kart 8,2014-05-29,4,0,-82.0
+2014,2014-15,Best Online Experience,game,included,Destiny,2014-09-09,4,0,122.5
+2014,2014-16,Best Remaster,game,included,Grand Theft Auto V,2014-11-18,4,0,184.75
+2014,2014-17,Most Anticipated Game,unreleased_game,unreleased_game_award,The Witcher 3: Wild Hunt,,0,4,
+2014,2014-18,Esports Player of the Year,person,non_game_award,"Matt ""NaDeSHoT"" Haag",,0,4,
+2014,2014-19,Esports Team of the Year,other,non_game_award,Ninjas in Pyjamas,,0,4,
+2014,2014-20,Trending Gamer,person,non_game_award,TotalBiscuit,,0,4,
+2014,2014-21,Best Fan Creation,other,non_game_award,Twitch Plays Pokémon,,0,4,
+2014,2014-22,Industry Icon Award,honorary,non_game_award,Ken and Roberta Williams ( Sierra Entertainment ),,0,0,
+2015,2015-01,Game of the Year,game,included,The Witcher 3: Wild Hunt,2015-05-19,4,0,-84.25
+2015,2015-02,Developer of the Year,other,non_game_award,CD Projekt Red,,0,4,
+2015,2015-03,Best Independent Game,game,included,Rocket League,2015-07-07,3,1,20.333
+2015,2015-04,Best Mobile/Handheld Game,game,included,Lara Croft Go,2015-08-27,4,0,186.0
+2015,2015-05,Best Narrative,game,included,Her Story,2015-06-24,4,0,82.5
+2015,2015-06,Best Art Direction,game,included,Ori and the Blind Forest,2015-03-11,4,0,-90.0
+2015,2015-07,Best Score/Soundtrack,game,included,Metal Gear Solid V: The Phantom Pain,2015-09-01,4,0,38.5
+2015,2015-08,Best Performance,performance,included,Viva Seifert as Hannah Smith,2015-06-24,4,0,10.75
+2015,2015-09,Games for Impact,game,included,Life Is Strange,2015-01-30,4,0,-190.0
+2015,2015-10,Best Shooter,game,included,Splatoon,2015-05-28,4,0,-149.25
+2015,2015-11,Best Action/Adventure,game,included,Metal Gear Solid V: The Phantom Pain,2015-09-01,4,0,30.5
+2015,2015-12,Best Role Playing Game,game,included,The Witcher 3: Wild Hunt,2015-05-19,4,0,-45.75
+2015,2015-13,Best Fighting Game,game,included,Mortal Kombat X,2015-04-14,3,0,73.667
+2015,2015-14,Best Family Game,game,included,Super Mario Maker,2015-09-10,2,2,44.0
+2015,2015-15,Best Sports/Racing Game,game,included,Rocket League,2015-07-07,4,0,-80.0
+2015,2015-16,Best Multiplayer,game,included,Splatoon,2015-05-28,4,0,-116.0
+2015,2015-17,Most Anticipated Game,unreleased_game,unreleased_game_award,No Man's Sky,,0,4,
+2015,2015-18,Esports Player of the Year,person,non_game_award,"Kenny ""KennyS"" Schrub (Team EnVyUs",,0,4,
+2015,2015-19,Esports Team of the Year,other,non_game_award,OpTic Gaming,,0,4,
+2015,2015-20,Esports Game of the Year,game,included,Counter-Strike: Global Offensive,2012-08-21,4,0,-166.25
+2015,2015-21,Trending Gamer,person,non_game_award,Greg Miller,,0,4,
+2015,2015-22,Best Fan Creation,other,non_game_award,Portal Stories: Mel,,0,3,
+2015,2015-23,Industry Icon Award,honorary,non_game_award,Brett Sperry and Louis Castle ( Westwood Studios ),,0,0,
+2016,2016-01,Game of the Year,game,included,Overwatch,2016-05-24,4,0,-42.0
+2016,2016-02,Best Game Direction,game,included,Overwatch,2016-05-24,4,0,-70.5
+2016,2016-03,Best Narrative,game,included,Uncharted 4: A Thief's End,2016-05-10,4,0,2.0
+2016,2016-04,Best Art Direction,game,included,Inside,2016-06-29,4,0,48.25
+2016,2016-05,Best Music/Sound Design,game,included,Doom,2016-05-13,4,0,-127.75
+2016,2016-06,Best Performance,performance,included,Nolan North as Nathan Drake,2016-05-10,5,0,6.4
+2016,2016-07,Games for Impact,game,included,"That Dragon, Cancer",2016-01-11,3,1,-144.333
+2016,2016-08,Best Independent Game,game,included,Inside,2016-06-29,4,0,127.5
+2016,2016-09,Best Mobile/Handheld Game,game,included,Pokémon Go,2016-07-06,3,1,241.333
+2016,2016-10,Best VR Game,game,included,Rez Infinite,2016-10-13,4,0,98.25
+2016,2016-11,Best Action Game,game,included,Doom,2016-05-13,4,0,-122.75
+2016,2016-12,Best Action/Adventure,game,included,Dishonored 2,2016-11-11,3,1,218.333
+2016,2016-13,Best Role Playing Game,game,included,The Witcher 3: Wild Hunt,2016-05-31,4,0,72.75
+2016,2016-14,Best Fighting Game,game,included,Street Fighter V,2016-02-16,3,0,280.667
+2016,2016-15,Best Strategy Game,game,included,Civilization VI,2016-10-21,4,0,276.0
+2016,2016-16,Best Family Game,game,included,Pokémon Go,2016-07-06,2,2,84.5
+2016,2016-17,Best Sports/Racing Game,game,included,Forza Horizon 3,2016-09-27,3,1,63.0
+2016,2016-18,Best Multiplayer,game,included,Overwatch,2016-05-24,5,0,-68.6
+2016,2016-19,Most Anticipated Game,unreleased_game,unreleased_game_award,The Legend of Zelda: Breath of the Wild,,0,4,
+2016,2016-20,Trending Gamer,person,non_game_award,Boogie2988,,0,4,
+2016,2016-21,Best Fan Creation,other,non_game_award,Enderal: The Shards of Order,,0,3,
+2016,2016-22,Esports Player of the Year,person,non_game_award,"Marcelo ""coldzera"" David ( SK Gaming",,0,4,
+2016,2016-23,Esports Team of the Year,other,non_game_award,Cloud9,,0,4,
+2016,2016-24,Esports Game of the Year,game,included,Overwatch,2016-05-24,4,0,1230.25
+2016,2016-25,Industry Icon Award,honorary,non_game_award,Hideo Kojima,,0,0,
+2017,2017-01,Game of the Year,game,included,The Legend of Zelda: Breath of the Wild,2017-03-03,4,0,-71.75
+2017,2017-02,Best Game Direction,game,included,The Legend of Zelda: Breath of the Wild,2017-03-03,4,0,-108.75
+2017,2017-03,Best Narrative,game,included,What Remains of Edith Finch,2017-04-25,4,0,-43.25
+2017,2017-04,Best Art Direction,game,included,Cuphead,2017-09-29,4,0,156.0
+2017,2017-05,Best Score/Music,game,included,Nier: Automata,2017-02-23,5,0,-141.4
+2017,2017-06,Best Audio Design,game,included,Hellblade: Senua's Sacrifice,2017-08-08,4,0,61.25
+2017,2017-07,Best Performance,performance,included,Melina Juergens as Senua,2017-08-08,4,0,13.25
+2017,2017-08,Games for Impact,game,included,Hellblade: Senua's Sacrifice,2017-08-08,4,1,43.0
+2017,2017-09,Best Ongoing Game,game,included,Overwatch,2016-05-24,5,0,304.8
+2017,2017-10,Best Independent Game,game,included,Cuphead,2017-09-29,4,0,123.75
+2017,2017-11,Best Mobile Game,game,included,Monument Valley 2,2017-06-05,4,0,106.0
+2017,2017-12,Best Handheld Game,game,included,Metroid: Samus Returns,2017-09-15,3,1,434.333
+2017,2017-13,Best VR/AR Game,game,included,Resident Evil 7: Biohazard,2017-01-24,3,1,32.333
+2017,2017-14,Best Action Game,game,included,Wolfenstein II: The New Colossus,2017-10-27,4,0,129.0
+2017,2017-15,Best Action/Adventure,game,included,The Legend of Zelda: Breath of the Wild,2017-03-03,4,0,-161.25
+2017,2017-16,Best Role Playing Game,game,included,Persona 5,2017-04-04,4,0,-48.25
+2017,2017-17,Best Fighting Game,game,included,Injustice 2,2017-05-11,2,2,374.5
+2017,2017-18,Best Family Game,game,included,Super Mario Odyssey,2017-10-27,4,0,103.0
+2017,2017-19,Best Strategy Game,game,included,Mario + Rabbids Kingdom Battle,2017-08-29,4,0,36.25
+2017,2017-20,Best Sports/Racing Game,game,included,Forza Motorsport 7,2017-10-03,3,2,9.667
+2017,2017-21,Best Multiplayer,game,included,PlayerUnknown's Battlegrounds,2017-03-23,5,0,-134.4
+2017,2017-22,Student Game Award,game,winner_release_missing_or_partial,Level Squared,,0,5,
+2017,2017-23,Best Debut Indie Game,game,included,Cuphead,2017-09-29,4,0,111.5
+2017,2017-24,Most Anticipated Game,unreleased_game,unreleased_game_award,The Last of Us Part II,,0,4,
+2017,2017-25,Trending Gamer,person,non_game_award,"Guy ""Dr DisRespect"" Beahm",,0,4,
+2017,2017-26,Best Esports Game,game,included,Overwatch,2016-05-24,4,0,1286.25
+2017,2017-27,Best Esports Player,person,non_game_award,"Lee ""Faker"" Sang-hyeok ( SK Telecom T1 , League of Legends )",,0,4,
+2017,2017-28,Best Esports Team,other,non_game_award,Cloud9,,0,4,
+2017,2017-29,Chinese Fan Game Award,game,winner_release_missing_or_partial,jx3 HD,,2,2,
+2017,2017-30,Industry Icon Award,honorary,non_game_award,Carol Shaw,,0,0,
+2018,2018-01,Game of the Year,game,included,God of War,2018-04-20,5,0,-65.6
+2018,2018-02,Best Game Direction,game,included,God of War,2018-04-20,4,0,-84.0
+2018,2018-03,Best Narrative,game,included,Red Dead Redemption 2,2018-10-26,4,0,105.5
+2018,2018-04,Best Art Direction,game,included,Return of the Obra Dinn,2018-10-18,4,0,70.75
+2018,2018-05,Best Score/Music,game,included,Red Dead Redemption 2,2018-10-26,5,0,166.8
+2018,2018-06,Best Audio Design,game,included,Red Dead Redemption 2,2018-10-26,4,0,69.0
+2018,2018-07,Best Performance,performance,included,Roger Clark as Arthur Morgan,2018-10-26,4,0,103.25
+2018,2018-08,Games for Impact,game,included,Celeste,2018-01-25,4,0,-200.5
+2018,2018-09,Best Ongoing Game,game,included,Fortnite,2017-07-25,4,0,243.25
+2018,2018-10,Best Independent Game,game,included,Celeste,2018-01-25,4,0,-64.0
+2018,2018-11,Best Mobile Game,game,included,Florence,2018-02-05,4,0,-76.5
+2018,2018-12,Best VR/AR Game,game,included,Astro Bot Rescue Mission,2018-10-02,4,0,92.0
+2018,2018-13,Best Action Game,game,included,Dead Cells,2017-05-10,3,1,-441.0
+2018,2018-14,Best Action/Adventure Game,game,included,God of War,2018-04-20,4,0,-161.0
+2018,2018-15,Best Role Playing Game,game,included,Monster Hunter: World,2018-01-26,4,0,-36.25
+2018,2018-16,Best Fighting Game,game,included,Dragon Ball FighterZ,2018-01-26,3,0,106.333
+2018,2018-17,Best Family Game,game,included,Overcooked 2,2018-08-07,4,0,6.5
+2018,2018-18,Best Strategy Game,game,included,Into the Breach,2018-02-27,2,2,-101.5
+2018,2018-19,Best Sports/Racing Game,game,included,Forza Horizon 4,2018-10-02,4,0,40.5
+2018,2018-20,Best Multiplayer Game,game,included,Fortnite,2017-07-25,4,0,-318.25
+2018,2018-21,Best Student Game,game,winner_release_missing_or_partial,Combat 2018,,0,4,
+2018,2018-22,Best Debut Indie Game,game,included,The Messenger,2018-08-30,4,0,121.25
+2018,2018-23,Best Esports Game,game,included,Overwatch,2016-05-24,4,0,1099.0
+2018,2018-24,Best Esports Player,person,non_game_award,"Dominique ""SonicFox"" McLean ( Echo Fox )",,0,4,
+2018,2018-25,Best Esports Team,other,non_game_award,Cloud9 ( League of Legends ),,0,4,
+2018,2018-26,Best Esports Coach,person,non_game_award,"Bok ""Reapered"" Han-gyu ( Cloud9 )",,0,5,
+2018,2018-27,Best Esports Event,other,non_game_award,2018 League of Legends World Championship,,0,4,
+2018,2018-28,Best Esports Host,person,non_game_award,"Eefje ""Sjokz"" Depoortere",,0,4,
+2018,2018-29,Best Esports Moment,other,non_game_award,Cloud9 comeback win in triple OT vs Faze ( ELEAGUE Major: Boston 2018 ),,0,4,
+2018,2018-30,Content Creator of the Year,person,non_game_award,Ninja,,0,3,
+2018,2018-31,Industry Icon Award,honorary,non_game_award,Greg Thomas,,0,0,
+2018,2018-32,Global Gaming Citizens,honorary,non_game_award,Sadia Bashir; Steven Spohn; Lual Mayen,,0,0,
+2019,2019-01,Game of the Year,game,included,Sekiro: Shadows Die Twice,2019-03-22,5,0,-89.0
+2019,2019-02,Best Game Direction,game,included,Death Stranding,2019-11-08,4,0,188.75
+2019,2019-03,Best Narrative,game,included,Disco Elysium,2019-10-15,4,0,42.25
+2019,2019-04,Best Art Direction,game,included,Control,2019-08-27,5,0,59.0
+2019,2019-05,Best Score/Music,game,included,Death Stranding,2019-11-08,4,0,182.5
+2019,2019-06,Best Audio Design,game,included,Call of Duty: Modern Warfare,2019-10-25,5,0,116.0
+2019,2019-07,Best Performance,performance,included,Mads Mikkelsen as Cliff,2019-11-08,3,2,48.667
+2019,2019-08,Games for Impact,game,included,Gris,2018-12-13,4,0,-174.5
+2019,2019-09,Best Ongoing Game,game,included,Fortnite,2017-07-25,4,0,357.0
+2019,2019-10,Best Independent Game,game,included,Disco Elysium,2019-10-15,4,0,140.25
+2019,2019-11,Best Mobile Game,game,included,Call of Duty: Mobile,2019-10-01,4,0,28.5
+2019,2019-12,Best VR/AR Game,game,included,Beat Saber,2019-05-21,4,0,213.0
+2019,2019-13,Best Action Game,game,included,Devil May Cry 5,2019-03-08,5,0,-107.8
+2019,2019-14,Best Action/Adventure Game,game,included,Sekiro: Shadows Die Twice,2019-03-22,5,0,-138.0
+2019,2019-15,Best Role Playing Game,game,included,Disco Elysium,2019-10-15,4,0,633.0
+2019,2019-16,Best Fighting Game,game,included,Super Smash Bros. Ultimate,2018-12-07,3,1,-92.0
+2019,2019-17,Best Family Game,game,included,Luigi's Mansion 3,2019-10-31,4,0,170.5
+2019,2019-18,Best Strategy Game,game,included,Fire Emblem: Three Houses,2019-07-26,4,1,101.5
+2019,2019-19,Best Sports/Racing Game,game,included,Crash Team Racing Nitro-Fueled,2019-06-21,4,0,-17.75
+2019,2019-20,Best Multiplayer Game,game,included,Apex Legends,2019-02-04,4,0,-133.0
+2019,2019-21,Fresh Indie Game,game,included,Disco Elysium,2019-10-15,4,1,147.0
+2019,2019-22,Best Community Support,game,included,Destiny 2,2017-09-06,4,0,410.75
+2019,2019-23,Player's Voice,game,included,Fire Emblem: Three Houses,2019-07-26,3,0,4.667
+2019,2019-24,Best Esports Game,game,included,League of Legends,2009-10-27,4,0,-1902.25
+2019,2019-25,Best Esports Player,person,non_game_award,"Kyle ""Bugha"" Giersdorf ( Sentinels , Fortnite )",,0,4,
+2019,2019-26,Best Esports Team,other,non_game_award,G2 Esports ( League of Legends ),,0,4,
+2019,2019-27,Best Esports Coach,person,non_game_award,"Danny ""Zonic"" Sørensen ( Astralis , Counter-Strike: Global Offensive )",,0,5,
+2019,2019-28,Best Esports Event,other,non_game_award,2019 League of Legends World Championship,,0,5,
+2019,2019-29,Best Esports Host,person,non_game_award,"Eefje ""Sjokz"" Depoortere",,0,4,
+2019,2019-30,Content Creator of the Year,person,non_game_award,"Michael ""Shroud"" Grzesiek",,0,4,
+2019,2019-31,Global Gaming Citizens,other,non_game_award,"Fereshteh Forough , Code to Inspire",,0,4,
+2020,2020-01,Game of the Year,game,included,The Last of Us Part II,2020-06-19,5,0,26.8
+2020,2020-02,Best Game Direction,game,included,The Last of Us Part II,2020-06-19,4,0,10.0
+2020,2020-03,Best Narrative,game,included,The Last of Us Part II,2020-06-19,4,0,39.0
+2020,2020-04,Best Art Direction,game,included,Ghost of Tsushima,2020-07-17,4,0,48.0
+2020,2020-05,Best Score and Music,game,included,Final Fantasy VII Remake,2020-04-10,4,0,-44.75
+2020,2020-06,Best Audio Design,game,included,The Last of Us Part II,2020-06-19,4,0,57.0
+2020,2020-07,Best Performance,performance,included,Laura Bailey as Abby,2020-06-19,3,1,-88.0
+2020,2020-08,Games for Impact,game,included,Tell Me Why,2020-08-27,4,0,777.0
+2020,2020-09,Best Ongoing Game,game,included,No Man's Sky,2016-08-09,4,0,-740.25
+2020,2020-10,Best Indie Game,game,included,Hades,2020-09-17,4,0,33.0
+2020,2020-11,Best Mobile Game,game,included,Among Us,2018-06-15,4,0,-683.0
+2020,2020-12,Best Community Support,game,included,Fall Guys,2020-08-04,5,0,847.0
+2020,2020-13,Best VR / AR Game,game,included,Half-Life: Alyx,2020-03-23,3,1,-31.667
+2020,2020-14,Innovation in Accessibility,game,included,The Last of Us Part II,2020-06-19,4,0,-43.75
+2020,2020-15,Best Action Game,game,included,Hades,2020-09-17,4,0,171.75
+2020,2020-16,Best Action/Adventure Game,game,included,The Last of Us Part II,2020-06-19,5,0,-0.2
+2020,2020-17,Best Role Playing Game,game,included,Final Fantasy VII Remake,2020-04-10,4,0,-16.0
+2020,2020-18,Best Fighting Game,game,included,Mortal Kombat 11: Ultimate Edition,2019-04-23,2,2,436.5
+2020,2020-19,Best Family Game,game,included,Animal Crossing: New Horizons,2020-03-20,5,0,-145.8
+2020,2020-20,Best Sim/Strategy Game,game,included,Microsoft Flight Simulator,2020-08-18,4,0,69.25
+2020,2020-21,Best Sports/Racing Game,game,included,Tony Hawk's Pro Skater 1 + 2,2020-09-04,3,1,-14.0
+2020,2020-22,Best Multiplayer Game,game,included,Among Us,2018-06-15,4,0,-694.25
+2020,2020-23,Best Debut Game,game,included,Phasmophobia,2020-09-18,4,0,29.5
+2020,2020-24,Most Anticipated Game,unreleased_game,unreleased_game_award,Elden Ring,,0,5,
+2020,2020-25,Player's Voice,game,included,Ghost of Tsushima,2020-07-17,4,0,-8.25
+2020,2020-26,Best Esports Game,game,included,League of Legends,2009-10-27,4,0,-2844.5
+2020,2020-27,Best Esports Athlete,person,non_game_award,"Heo ""Showmaker"" Su ( Damwon Gaming , League of Legends )",,0,4,
+2020,2020-28,Best Esports Team,other,non_game_award,G2 Esports ( League of Legends ),,0,4,
+2020,2020-29,Best Esports Coach,person,non_game_award,"Danny ""zonic"" Sorensen ( Astralis , Counter-Strike: Global Offensive )",,0,4,
+2020,2020-30,Best Esports Event,other,non_game_award,2020 League of Legends World Championship ( League of Legends ),,0,4,
+2020,2020-31,Best Esports Host,person,non_game_award,"Eefje ""Sjokz"" Depoortere",,0,4,
+2020,2020-32,Content Creator of the Year,person,non_game_award,"Rachell ""Valkyrae"" Hofstetter",,0,4,
+2020,2020-33,Global Gaming Citizens,other,non_game_award,Jennifer Hazel,,0,2,
+2021,2021-01,Game of the Year,game,included,It Takes Two,2021-03-26,5,0,-127.8
+2021,2021-02,Best Game Direction,game,included,Deathloop,2021-09-14,4,0,106.0
+2021,2021-03,Best Narrative,game,included,Marvel's Guardians of the Galaxy,2021-10-26,4,0,91.0
+2021,2021-04,Best Art Direction,game,included,Deathloop,2021-09-14,4,0,28.25
+2021,2021-05,Best Score and Music,game,included,Nier Replicant ver 1.22474487139,2021-04-22,4,0,-84.75
+2021,2021-06,Best Audio Design,game,included,Forza Horizon 5,2021-11-09,4,0,146.5
+2021,2021-07,Best Performance,performance,included,Maggie Robertson as Lady Dimitrescu,2021-05-07,3,1,-136.333
+2021,2021-08,Games for Impact,game,included,Life Is Strange: True Colors,2021-09-10,4,0,79.75
+2021,2021-09,Best Ongoing Game,game,included,Final Fantasy XIV,2013-08-27,4,0,-2097.75
+2021,2021-10,Best Independent Game,game,included,Kena: Bridge of Spirits,2021-09-21,4,0,67.25
+2021,2021-11,Best Mobile Game,game,included,Genshin Impact,2020-09-28,4,0,-210.5
+2021,2021-12,Best Community Support,game,included,Final Fantasy XIV,2013-08-27,4,0,-1781.25
+2021,2021-13,Best VR / AR Game,game,included,Resident Evil 4,2021-10-21,4,0,111.5
+2021,2021-14,Innovation in Accessibility,game,included,Forza Horizon 5,2021-11-09,4,0,70.0
+2021,2021-15,Best Action Game,game,included,Returnal,2021-04-30,4,0,-125.25
+2021,2021-16,Best Action / Adventure Game,game,included,Metroid Dread,2021-10-08,4,0,74.75
+2021,2021-17,Best Role Playing Game,game,included,Tales of Arise,2021-09-10,4,0,114.25
+2021,2021-18,Best Fighting Game,game,included,Guilty Gear Strive,2021-06-11,4,0,1274.0
+2021,2021-19,Best Family Game,game,included,It Takes Two,2021-03-26,4,0,565.5
+2021,2021-20,Best Sports / Racing Game,game,included,Forza Horizon 5,2021-11-09,4,0,51.75
+2021,2021-21,Best Sim / Strategy Game,game,included,Age of Empires IV,2021-10-28,4,0,182.5
+2021,2021-22,Best Multiplayer Game,game,included,It Takes Two,2021-03-26,5,0,-78.0
+2021,2021-23,Best Debut Indie Game,game,included,Kena: Bridge of Spirits,2021-09-21,4,0,74.0
+2021,2021-24,Most Anticipated Game,unreleased_game,unreleased_game_award,Elden Ring,,0,4,
+2021,2021-25,Players' Voice,game,included,Halo Infinite,2021-12-08,4,0,140.5
+2021,2021-26,Best Esports Game,game,included,League of Legends,2009-10-27,3,1,-2083.667
+2021,2021-27,Best Esports Player,person,non_game_award,"Oleksandr ""s1mple"" Kostyliev",,0,4,
+2021,2021-28,Best Esports Team,other,non_game_award,Natus Vincere ( Counter Strike: Global Offensive ),,0,4,
+2021,2021-29,Best Esports Coach,person,non_game_award,"Kim ""kkOma"" Jeong-gyun",,0,4,
+2021,2021-30,Best Esports Event,other,non_game_award,2021 League of Legends World Championship,,0,4,
+2021,2021-31,Content Creator of the Year,person,non_game_award,Dream,,0,4,
+2021,2021-32,Global Gaming Citizens,other,non_game_award,The Drag Stream Community,,0,2,
+2022,2022-01,Game of the Year,game,included,Elden Ring,2022-02-25,5,0,-156.6
+2022,2022-02,Best Game Direction,game,included,Elden Ring,2022-02-25,4,0,-145.0
+2022,2022-03,Best Narrative,game,included,God of War Ragnarök,2022-11-09,4,0,153.5
+2022,2022-04,Best Art Direction,game,included,Elden Ring,2022-02-25,4,0,-156.25
+2022,2022-05,Best Score and Music,game,included,God of War Ragnarök,2022-11-09,4,0,109.25
+2022,2022-06,Best Audio Design,game,included,God of War Ragnarök,2022-11-09,4,0,196.0
+2022,2022-07,Best Performance,performance,included,Christopher Judge as Kratos,2022-11-09,3,1,119.0
+2022,2022-08,Games for Impact,game,included,As Dusk Falls,2022-07-19,5,0,27.8
+2022,2022-09,Best Ongoing Game,game,included,Final Fantasy XIV,2013-08-27,4,0,-2276.25
+2022,2022-10,Best Independent Game,game,included,Stray,2022-07-19,4,0,74.5
+2022,2022-11,Best Mobile Game,game,included,Marvel Snap,2022-10-18,4,0,330.0
+2022,2022-12,Best Community Support,game,included,Final Fantasy XIV,2013-08-27,4,0,-1898.5
+2022,2022-13,Best VR / AR Game,game,included,Moss: Book II,2022-10-20,2,2,0.0
+2022,2022-14,Innovation in Accessibility,game,included,God of War Ragnarök,2022-11-09,4,0,96.0
+2022,2022-15,Best Action Game,game,included,Bayonetta 3,2022-10-28,4,0,133.25
+2022,2022-16,Best Action/Adventure Game,game,included,God of War Ragnarök,2022-11-09,4,0,159.25
+2022,2022-17,Best Role Playing Game,game,included,Elden Ring,2022-02-25,4,0,2476.25
+2022,2022-18,Best Fighting Game,game,included,MultiVersus,2022-07-19,4,0,72.75
+2022,2022-19,Best Family Game,game,included,Kirby and the Forgotten Land,2022-03-25,4,0,-105.75
+2022,2022-20,Best Sports/Racing Game,game,included,Gran Turismo 7,2022-03-04,4,0,-123.0
+2022,2022-21,Best Sim/Strategy Game,game,included,Mario + Rabbids Sparks of Hope,2022-10-20,4,0,122.25
+2022,2022-22,Best Multiplayer Game,game,included,Splatoon 3,2022-09-09,4,0,16.0
+2022,2022-23,Best Debut Indie Game,game,included,Stray,2022-07-19,4,0,122.25
+2022,2022-24,Most Anticipated Game,unreleased_game,unreleased_game_award,The Legend of Zelda: Tears of the Kingdom,,0,4,
+2022,2022-25,Best Adaptation,adaptation,non_game_award,Arcane (animated series),,0,4,
+2022,2022-26,Players' Voice,game,included,Genshin Impact,2020-09-28,4,0,-679.25
+2022,2022-27,Best Esports Game,game,included,Valorant,2020-06-02,4,0,2756.25
+2022,2022-28,Best Esports Athlete,person,non_game_award,"Jaccob ""yay"" Whiteaker ( OpTic Gaming , Valorant )",,0,4,
+2022,2022-29,Best Esports Team,other,non_game_award,LOUD ( Valorant ),,0,4,
+2022,2022-30,Best Esports Coach,person,non_game_award,"Matheus ""bzkA"" Tarasconi ( LOUD , Valorant )",,0,4,
+2022,2022-31,Best Esports Event,other,non_game_award,2022 League of Legends World Championship,,0,4,
+2022,2022-32,Content Creator of the Year,person,non_game_award,Ludwig Ahgren,,0,4,
+2023,2023-01,Game of the Year,game,included,Baldur's Gate 3,2023-08-03,5,0,-5.2
+2023,2023-02,Best Game Direction,game,included,Alan Wake 2,2023-10-27,4,0,66.75
+2023,2023-03,Best Narrative,game,included,Alan Wake 2,2023-10-27,4,0,62.5
+2023,2023-04,Best Art Direction,game,included,Alan Wake 2,2023-10-27,4,0,122.0
+2023,2023-05,Best Score and Music,game,included,Final Fantasy XVI,2023-06-22,4,0,5.0
+2023,2023-06,Best Audio Design,game,included,Hi-Fi Rush,2023-01-25,4,0,-150.75
+2023,2023-07,Best Performance,performance,included,Neil Newbon as Astarion,2023-08-03,5,0,-7.2
+2023,2023-08,Games for Impact,game,included,Tchia,2023-03-21,5,0,-81.4
+2023,2023-09,Best Independent Game,game,included,Sea of Stars,2023-08-29,4,0,117.25
+2023,2023-10,Best Debut Indie Game,game,included,Cocoon,2023-09-29,4,0,140.5
+2023,2023-11,Best Ongoing Game,game,included,Cyberpunk 2077,2020-12-10,4,0,1161.0
+2023,2023-12,Best Community Support,game,included,Baldur's Gate 3,2023-08-03,4,0,2325.25
+2023,2023-13,Best Mobile Game,game,included,Honkai: Star Rail,2023-04-26,4,0,-84.75
+2023,2023-14,Best VR / AR Game,game,included,Resident Evil Village,2023-02-22,4,0,-53.75
+2023,2023-15,Best Action Game,game,included,Armored Core VI: Fires of Rubicon,2023-08-25,4,0,96.0
+2023,2023-16,Best Action / Adventure Game,game,included,The Legend of Zelda: Tears of the Kingdom,2023-05-12,4,0,-56.0
+2023,2023-17,Best Role Playing Game,game,included,Baldur's Gate 3,2023-08-03,4,0,-15.0
+2023,2023-18,Best Fighting Game,game,included,Street Fighter 6,2023-06-02,4,0,-78.0
+2023,2023-19,Best Family Game,game,included,Super Mario Bros. Wonder,2023-10-20,4,0,52.0
+2023,2023-20,Best Sim / Strategy Game,game,included,Pikmin 4,2023-07-21,4,0,81.5
+2023,2023-21,Best Sports / Racing Game,game,included,Forza Motorsport,2023-10-10,4,0,36.25
+2023,2023-22,Best Multiplayer Game,game,included,Baldur's Gate 3,2023-08-03,4,0,-1.5
+2023,2023-23,Innovation in Accessibility,game,included,Forza Motorsport,2023-10-10,5,0,105.0
+2023,2023-24,Best Adaptation,adaptation,non_game_award,The Last of Us (television series),,0,4,
+2023,2023-25,Most Anticipated Game,unreleased_game,unreleased_game_award,Final Fantasy VII Rebirth,,0,4,
+2023,2023-26,Players' Voice,game,included,Baldur's Gate 3,2023-08-03,4,0,247.5
+2023,2023-27,Best Esports Game,game,included,Valorant,2020-06-02,4,0,1496.25
+2023,2023-28,Best Esports Athlete,person,non_game_award,"Lee ""Faker"" Sang-hyeok ( T1 , League of Legends )",,0,5,
+2023,2023-29,Best Esports Team,other,non_game_award,JD Gaming ( League of Legends ),,0,4,
+2023,2023-30,Best Esports Coach,person,non_game_award,"Christine ""potter"" Chi ( Evil Geniuses , Valorant )",,0,4,
+2023,2023-31,Best Esports Event,other,non_game_award,2023 League of Legends World Championship,,0,4,
+2023,2023-32,Content Creator of the Year,person,non_game_award,Ironmouse,,0,4,
+2024,2024-01,Game of the Year,game,included,Astro Bot,2024-09-06,5,0,89.6
+2024,2024-02,Best Game Direction,game,included,Astro Bot,2024-09-06,5,0,89.6
+2024,2024-03,Best Narrative,game,included,Metaphor: ReFantazio,2024-10-11,4,0,157.5
+2024,2024-04,Best Art Direction,game,included,Metaphor: ReFantazio,2024-10-11,4,0,48.75
+2024,2024-05,Best Score and Music,game,included,Final Fantasy VII Rebirth,2024-02-29,4,0,-173.5
+2024,2024-06,Best Audio Design,game,included,Senua's Saga: Hellblade II,2024-05-21,4,0,-80.75
+2024,2024-07,Best Performance,performance,included,Melina Juergens as Senua,2024-05-21,4,0,-80.0
+2024,2024-08,Games for Impact,game,included,Neva,2024-10-15,4,1,118.5
+2024,2024-09,Best Independent Game,game,included,Balatro,2024-02-20,4,0,-153.5
+2024,2024-10,Best Debut Indie Game,game,included,Balatro,2024-02-20,4,0,-89.25
+2024,2024-11,Best Ongoing Game,game,included,Helldivers II,2024-02-08,4,0,471.25
+2024,2024-12,Best Community Support,game,included,Baldur's Gate 3,2020-10-06,4,0,25.75
+2024,2024-13,Best Mobile Game,game,included,Balatro,2024-02-20,4,0,-129.0
+2024,2024-14,Best VR / AR Game,game,included,Batman: Arkham Shadow,2024-10-21,4,0,266.25
+2024,2024-15,Best Action Game,game,included,Black Myth: Wukong,2024-08-20,4,0,56.0
+2024,2024-16,Best Action / Adventure Game,game,included,Astro Bot,2024-09-06,4,0,46.75
+2024,2024-17,Best Role Playing Game,game,included,Metaphor: ReFantazio,2024-10-11,4,0,199.75
+2024,2024-18,Best Fighting Game,game,included,Tekken 8,2024-01-26,4,0,27.75
+2024,2024-19,Best Family Game,game,included,Astro Bot,2024-09-06,4,0,24.0
+2024,2024-20,Best Sim / Strategy Game,game,included,Frostpunk 2,2024-09-20,4,0,107.25
+2024,2024-21,Best Sports / Racing Game,game,included,EA Sports FC 25,2024-09-27,4,0,124.25
+2024,2024-22,Best Multiplayer Game,game,included,Helldivers II,2024-02-08,4,0,-178.25
+2024,2024-23,Innovation in Accessibility,game,included,Prince of Persia: The Lost Crown,2024-01-18,4,0,-264.0
+2024,2024-24,Best Adaptation,adaptation,non_game_award,Fallout (television series),,0,4,
+2024,2024-25,Most Anticipated Game,unreleased_game,unreleased_game_award,Grand Theft Auto VI,,0,4,
+2024,2024-26,Players' Voice,game,included,Black Myth: Wukong,2024-08-20,4,0,404.75
+2024,2024-27,Best Esports Game,game,included,League of Legends,2009-10-27,4,0,-3189.25
+2024,2024-28,Best Esports Athlete,person,non_game_award,"Lee ""Faker"" Sang-hyeok",,0,5,
+2024,2024-29,Best Esports Team,other,non_game_award,T1 ( League of Legends ),,0,4,
+2024,2024-30,Content Creator of the Year,person,non_game_award,CaseOh,,0,4,
+2024,2024-31,Game Changer,honorary,non_game_award,Amir Satvat,,0,0,
+2025,2025-01,Game of the Year,game,included,Clair Obscur: Expedition 33,2025-04-24,5,0,-71.0
+2025,2025-02,Best Game Direction,game,included,Clair Obscur: Expedition 33,2025-04-24,4,0,-82.25
+2025,2025-03,Best Narrative,game,included,Clair Obscur: Expedition 33,2025-04-24,4,0,-74.75
+2025,2025-04,Best Art Direction,game,included,Clair Obscur: Expedition 33,2025-04-24,4,0,-127.75
+2025,2025-05,Best Score and Music,game,included,Clair Obscur: Expedition 33,2025-04-24,4,0,-127.75
+2025,2025-06,Best Audio Design,game,included,Battlefield 6,2025-10-10,4,0,74.5
+2025,2025-07,Best Performance,performance,included,Jennifer English as Maelle,2025-04-24,3,2,-59.667
+2025,2025-08,Games for Impact,game,included,South of Midnight,2025-04-08,3,1,18.0
+2025,2025-09,Best Independent Game,game,included,Clair Obscur: Expedition 33,2025-04-24,5,0,-123.0
+2025,2025-10,Best Debut Indie Game,game,included,Clair Obscur: Expedition 33,2025-04-24,3,0,-58.0
+2025,2025-11,Best Ongoing Game,game,included,No Man's Sky,2016-08-09,4,0,-1263.0
+2025,2025-12,Best Community Support,game,included,Baldur's Gate 3,2020-10-06,4,0,25.75
+2025,2025-13,Best Mobile Game,game,included,Umamusume: Pretty Derby,2025-06-26,4,0,161.25
+2025,2025-14,Best VR / AR Game,game,included,The Midnight Walk,2025-05-08,2,2,-27.0
+2025,2025-15,Best Action Game,game,included,Hades II,2025-09-25,4,0,29.75
+2025,2025-16,Best Action / Adventure Game,game,included,Hollow Knight: Silksong,2025-09-04,4,0,123.25
+2025,2025-17,Best Role Playing Game,game,included,Clair Obscur: Expedition 33,2025-04-24,4,0,2.75
+2025,2025-18,Best Fighting Game,game,included,Fatal Fury: City of the Wolves,2025-04-24,4,0,1621.0
+2025,2025-19,Best Family Game,game,included,Donkey Kong Bananza,2025-07-17,5,0,-6.0
+2025,2025-20,Best Sim / Strategy Game,game,included,Final Fantasy Tactics: The Ivalice Chronicles,2025-09-30,5,0,140.0
+2025,2025-21,Best Sports / Racing Game,game,included,Mario Kart World,2025-06-05,4,0,-58.25
+2025,2025-22,Best Multiplayer Game,game,included,ARC Raiders,2025-10-30,4,0,136.75
+2025,2025-23,Innovation in Accessibility,game,included,Doom: The Dark Ages,2025-05-15,4,0,2.0
+2025,2025-24,Best Adaptation,adaptation,non_game_award,The Last of Us season 2 (television series),,0,4,
+2025,2025-25,Most Anticipated Game,unreleased_game,unreleased_game_award,Grand Theft Auto VI,,0,4,
+2025,2025-26,Players' Voice,game,included,Wuthering Waves,2024-05-22,4,0,1.75
+2025,2025-27,Best Esports Game,game,included,Counter-Strike 2,2023-09-27,4,0,3164.5
+2025,2025-28,Best Esports Athlete,person,non_game_award,"Jung ""Chovy"" Ji-hoon ( League of Legends )",,0,5,
+2025,2025-29,Best Esports Team,other,non_game_award,Team Vitality ( Counter-Strike 2 ),,0,4,
+2025,2025-30,Content Creator of the Year,person,non_game_award,MoistCr1TiKaL,,0,4,
+2025,2025-31,Game Changer,honorary,non_game_award,Girls Make Games,,0,0,
